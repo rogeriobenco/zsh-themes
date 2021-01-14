@@ -39,7 +39,7 @@ PROMPT="${start_icon}${FG[033]}%n ${FG[239]}in %B${FG[226]}%3~%b${FG[239]}${git_
 ZSH_THEME_GIT_PROMPT_PREFIX=" ${FG[239]}on%{$reset_color%} ${FG[001]} ${git_branch_icon} "
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="${FG[001]} $(print -P ${git_dirty})"
-ZSH_THEME_GIT_PROMPT_CLEAN="${FG[040]} $(print -P ${gir_clean})"
+ZSH_THEME_GIT_PROMPT_CLEAN="${FG[040]} $(print -P ${git_clean})"
 
 ZSH_THEME_RUBY_PROMPT_PREFIX=" ${FG[239]}using${FG[243]} ‹"
 ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
