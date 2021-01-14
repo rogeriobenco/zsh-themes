@@ -1,5 +1,7 @@
 # ZSH-THEMES
 
+![status](https://raw.githubusercontent.com/rogeriobenco/cooltracker/master/public/img/status.png)
+
 ### Repositório para armazenamento de temas para o terminal bash ZSH
 
 ## Instruções
