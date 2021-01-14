@@ -6,11 +6,11 @@
 
 ## Instruções
 
-Copie o arquivo ```benco.zsh-theme``` de dentro da pasta ```/benco```  e cole no diretório ```/themes```, geralmente localizado em: ```~/.oh-my-zsh/themes```
+Copie o arquivo ```benco.zsh-theme``` de dentro da pasta ```/benco```  e cole na raíz do diretório ```/themes```, geralmente localizado em: ```~/.oh-my-zsh/themes```
 
 Abra o arquivo ```~/.zshrc```
 ```sh
-vim ~/.zshrc
+$ vim ~/.zshrc
 ```
 Altere a variável ```ZSH_THEME``` para:
 ```sh
